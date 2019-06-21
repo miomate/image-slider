@@ -3,7 +3,7 @@
 <img src="xgithub/slider.png" align="right"
      title="imgage slider" width="163" height="178">
 
-Images slides in a div
+Images slides in a div.
 
 [badge]: https://img.shields.io/badge/status-stable-green.svg
 
